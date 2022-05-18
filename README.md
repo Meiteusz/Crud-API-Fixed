@@ -1,5 +1,3 @@
-*Repositório antigo havia conflitos e o git não subiu as camadas Models e Controllers*
-
 Execute o seguinte comando no Package Manager Console:<br><br>
 
 <b>Update-Database -Project Models -Context CrudAPIContext<b><br><br>
